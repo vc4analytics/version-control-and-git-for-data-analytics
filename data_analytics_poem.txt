@@ -22,8 +22,3 @@ So let us embrace version control,
 And data analytics, our ultimate goal,
 To seek the truth and understand,
 The world around us, hand in hand.
-
-Version control for data analytics,
-Ensures accuracy and reproducibility,
-With every change tracked and noted,
-Our insights remain reliable and quotable.
