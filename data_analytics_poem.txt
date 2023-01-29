@@ -27,3 +27,8 @@ Version control for data analytics,
 Ensures accuracy and reproducibility,
 With every change tracked and noted,
 Our insights remain reliable and quotable.
+
+Collaborating on version control,
+Ensures team work, and a common goal,
+With branches and pull requests,
+We merge our code, with minimal stress.
